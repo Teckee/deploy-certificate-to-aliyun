@@ -13,7 +13,6 @@ fork该项目，并填写对应参数，再push一次代码即可（随便改点
 - `ALIYUN_CDN_DOMAINS`：设置阿里云cdn域名，一般是三级域名，例如cdn.example.com，需要跟上面的DOMAINS对应，否则会设置错误
 - `EMAIL`:  证书过期时提醒的邮件
 
-
 ## 相关文档
 
 > 这里使用的是阿里云提供的api进行的调用
