@@ -5,7 +5,7 @@
 
 fork该项目，并填写对应参数，再push一次代码即可（随便改点啥，workflow需要push才能触发）
 
- GitHub 仓库的 "Settings" -> "Secrets and variables" -> "Actions" 中添加以下 secrets：
+GitHub 仓库的 "Settings" -> "Secrets and variables" -> "Actions" 中添加以下 secrets：
 
 - `ALIYUN_ACCESS_KEY_ID`：阿里云账户AK
 - `ALIYUN_ACCESS_KEY_SECRET`：阿里云账户SK
